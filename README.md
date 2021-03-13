@@ -4,6 +4,10 @@ Ebook Download
 
 Download your Readmoo ebooks as EPUB files.
 
+## Warning
+
+Readmoo has blocked the way how this script retrieve epub files. Do not use it.  You've been warned.
+
 ## Usage
 
 You can skip the first three steps after the first time using the tool.

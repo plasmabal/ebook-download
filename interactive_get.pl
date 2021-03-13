@@ -399,6 +399,8 @@ sub save_epub
     $moo;
 }
 
+die "Readmoo has blocked how the epub files are generated via this script, so do not use it.";
+
 my $moo = config();
 $moo = prepare_mech($moo);
 $moo = get_user_password($moo);
